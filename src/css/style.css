@@ -255,6 +255,12 @@ section {
   margin-bottom: 30px;
 }
 
+.cta h3 {
+  font-size: 1.5rem;
+  color: var(--main-color);
+  margin-bottom: 30px;
+}
+
 .cta a {
   background: #11093f;
   font-weight: 600;
